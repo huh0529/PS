@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ.자료구조;
 
 import java.io.*;
 import java.util.*;

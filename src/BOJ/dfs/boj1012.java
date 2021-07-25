@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ.dfs;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

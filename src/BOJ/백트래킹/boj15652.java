@@ -1,10 +1,10 @@
-package BOJ;
+package BOJ.백트래킹;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class boj15651 {
+public class boj15652 {
     static int N, M;
     static int[] arr;
     static StringBuilder sb = new StringBuilder();
@@ -32,6 +32,8 @@ public class boj15651 {
         }
 
         for (int i = 1; i <= N; i++) {
+            if (m > 0 && i < arr[m - 1])
+                continue;
             arr[m] = i;
             func(m + 1);
         }

@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ.구간합;
 import java.io.*;
 import java.util.*;
 
