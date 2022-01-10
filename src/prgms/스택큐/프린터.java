@@ -3,7 +3,7 @@ package prgms.스택큐;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-class Solution {
+class Solution2 {
     public int solution(int[] priorities, int location) {
         int answer = 0;
 

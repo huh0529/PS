@@ -3,7 +3,7 @@ package prgms.스택큐;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class Solution1 {
     public List<Integer> solution(int[] progresses, int[] speeds) {
 
         List<Integer> answer = new ArrayList<>();
