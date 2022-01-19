@@ -1,4 +1,4 @@
-package SWEA;
+package SWEA.연결리스트;
 
 import java.util.ArrayList;
 import java.util.List;

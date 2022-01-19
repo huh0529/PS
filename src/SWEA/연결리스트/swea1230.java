@@ -1,4 +1,4 @@
-package SWEA;
+package SWEA.연결리스트;
 
 import java.io.FileInputStream;
 import java.util.ArrayList;

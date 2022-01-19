@@ -1,4 +1,4 @@
-package SWEA;
+package SWEA.비트연산;
 
 import java.util.Scanner;
 
